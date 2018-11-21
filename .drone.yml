@@ -1,5 +1,4 @@
 pipeline:
-
   docker-build:
     image: docker:17.09.1
     environment:
